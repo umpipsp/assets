@@ -39,16 +39,16 @@
 
 /* Sets the actual background images to adorable kitties. This part is crucial. */
 .bg-banco::after {
-  background-image: url('../images/bg_banco.png');
+  background-image: url('../images/bg_all.png');
   background-position: center; 
   background-size: cover; 
 }
 
 .bg1::after {
-background-image: url('../images/bg_banco.png');
+background-image: url('../images/bg_all.png');
 }
 .bg2::after {
-  background-image: url('../images/fundo-umpi.png');
+  background-image: url('../images/bg_umpi.png');
 }
   
 /*
