@@ -45,7 +45,7 @@
 }
 
 .bg1::after {
-background-image: url('../images/bg_all.png');
+  background-image: url('../images/bg_all.png');
 }
 .bg2::after {
   background-image: url('../images/bg_umpi.png');
